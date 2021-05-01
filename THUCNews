@@ -1,0 +1,2 @@
+抽取了20万条新闻标题，文本长度在20到30之间。一共10个类别，每类2万条。
+https://github.com/mazhihao1122/my-notebook/tree/main/project/Bert-Chinese-Text-Classification-Pytorch-master/THUCNews/data
