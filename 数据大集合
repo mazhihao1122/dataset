@@ -1,3 +1,6 @@
+THUCNews：
 抽取了20万条新闻标题，文本长度在20到30之间。一共10个类别，每类2万条。
 https://github.com/mazhihao1122/my-notebook/tree/main/project/Bert-Chinese-Text-Classification-Pytorch-master/THUCNews/data
 
+情感/观点/评论 倾向性分析、中文命名实体识别、FAQ 问答系统、
+https://github.com/SophonPlus/ChineseNlpCorpus
